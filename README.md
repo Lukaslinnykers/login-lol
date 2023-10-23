@@ -1,2 +1,2 @@
-# tela-login-lol
+# login-lol
 tela de login do lol
